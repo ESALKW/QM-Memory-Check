@@ -1,5 +1,6 @@
 # QM-Memory-Check
 Quine-McCluskey 메모리 및 실행시간 자동 확인 프로그램
+다운로드 : https://github.com/ESALKW/QM-Memory-Check/blob/main/QMChk.exe
 
 ## 사용법
 QMChk.exe <자신의 Quine-McCluskey 구현 실행파일 경로>

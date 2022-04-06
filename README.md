@@ -1,11 +1,10 @@
 # QM-Memory-Check
-Quine-McCluskey 메모리 및 실행시간 자동 확인 프로그램
+Quine-McCluskey 메모리 및 실행시간 자동 확인 프로그램  
 다운로드 : https://github.com/ESALKW/QM-Memory-Check/blob/main/QMChk.exe
 
 ## 사용법
-QMChk.exe <자신의 Quine-McCluskey 구현 실행파일 경로>
-예 : QMChk.exe I_HATE_TEAM_PROJECT.exe
-
+QMChk.exe <자신의 Quine-McCluskey 구현 실행파일 경로>  
+예 : QMChk.exe I_HATE_TEAM_PROJECT.exe  
 Quine-McCluskey 구현 실행 파일과 같은 폴더에 input_minterm.txt가 있어야 합니다.
 
 ## 실행시 화면
@@ -16,9 +15,9 @@ Quine-McCluskey 구현 실행 파일과 같은 폴더에 input_minterm.txt가 �
 2. Exit code 어쩌고 저쩌고 : 프로그램이 비정상 종료된 경우입니다.
 
 ## 질문
- 프로그램에 대해 질문은 받지 않습니다.
+ 프로그램에 대해 질문은 받지 않습니다.  
  프로그램이 동작하지 않는데 만약 본인의 잘못이 아니라고 생각되는 경우에만 조교에게 메일 바랍니다.
 
 ## 맥/리눅스용 프로그램은 없나요
-메모리 사용량 측정은 그 특성상 같은 OS에서 측정한 것이 아니면 동일성을 보장할 수 없습니다.
+메모리 사용량 측정은 그 특성상 같은 OS에서 측정한 것이 아니면 동일성을 보장할 수 없습니다.  
 따라서 지원할 계획이 없습니다. 이에 대해 문의는 받지 않습니다.

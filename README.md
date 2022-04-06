@@ -3,10 +3,12 @@ Quine-McCluskey 메모리 및 실행시간 자동 확인 프로그램
 다운로드 : https://github.com/ESALKW/QM-Memory-Check/blob/main/QMChk.exe
 
 ## 사용법
+같은 폴더에 있어야 할 것 : QMChk.exe, 프로그램, input_minterm.txt
+
 명령 프롬프트를 통해 아래와 같이 실행이 가능합니다.  
 실행 방법을 모르는 경우 링크 참조 : https://ko.wikihow.com/%EB%AA%85%EB%A0%B9-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EC%97%90%EC%84%9C-exe-%ED%8C%8C%EC%9D%BC-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
 
-QMChk.exe <자신의 Quine-McCluskey 구현 실행파일 경로>  
+QMChk.exe <자신의 Quine-McCluskey 구현 실행파일>  
 예 : QMChk.exe I_HATE_TEAM_PROJECT.exe  
 Quine-McCluskey 구현 실행 파일과 같은 폴더에 input_minterm.txt가 있어야 합니다.
 
